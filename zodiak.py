@@ -1,5 +1,9 @@
 #/usr/bin/python3.7
 #-*- coding: utf-8 -*-
+# Author : Ridho Gaming
+# github : https://github.com/ridhoNoob
+# whatsapp : 083113226393
+# Ngapain ?, Mau recode ?
 try:
 	import time,os,json,sys
 except Exception as E:
